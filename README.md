@@ -4,6 +4,9 @@
 
 This project is a web-based management dashboard for PiSOC (Raspberry Pi Mini Security Operations Center), a cybersecurity lab environment that integrates multiple security tools including ELK Stack SIEM, Suricata IDS, Cowrie honeypot, and packet capture capabilities. The dashboard provides real-time monitoring, configuration management, attack simulation, and analytics for security professionals and students to manage and interact with their mini SOC infrastructure.
 
+<img width="1512" height="752" alt="image" src="https://github.com/user-attachments/assets/b8d1f931-2a8f-4d43-9384-93316af21643" />
+
+
 The application serves as a centralized control plane for cybersecurity operations, offering both educational value and practical security monitoring capabilities in an affordable, portable lab environment.
 
 ## User Preferences
